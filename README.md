@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Vlad
-- 👀 I’m interested in front-end development, also I like study english
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently learning React + Redux
 - 📫 You can reach me in telegram https://t.me/Flexxx17
 
